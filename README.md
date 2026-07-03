@@ -6,7 +6,7 @@ ExpertConnect is an online platform that connects people who need expert advice 
 
 ## View the Project
 
-🔗 **[Live link coming soon](#)** — the app is ready for deployment and will be published shortly.
+🔗 **[View the live app →](https://shourak.replit.app)**
 
 ## Key Features
 
