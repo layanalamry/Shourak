@@ -1,27 +1,27 @@
-# ExpertConnect — Book a session with the right expert, instantly.
+# Shourak
 
 ## What It Is
 
-ExpertConnect is an online platform that connects people who need expert advice with qualified professionals across fields like technology, law, and more. Guests browse real expert profiles, request a consultation session, and get matched based on their specific needs. Experts volunteer their time to help, building a community built on shared knowledge.
+ِAn online platform that connects people who need expert advice with qualified professionals across fields like technology, law, and more. Guests browse real expert profiles, request a consultation session, and get matched based on AI request analysis. Experts volunteer their time to help, and recieve community work hours in return.
 
 ## View the Project
 
-🔗 **[View the live app →](https://shourak.replit.app)**
+🔗 **https://shourak.replit.app**
 
 ## Key Features
 
 - **Find the right expert fast** — browse profiles by category and read about each expert's background before reaching out.
-- **Smart request matching** — an AI assistant reviews each consultation request and highlights the most relevant experts for your question.
-- **Easy session booking** — send a request, get confirmed, and meet your expert — all from one place.
-- **Trusted reviews** — after every session, guests can leave a star rating and written feedback so the community stays accountable.
+- **Smart request matching** — AI assistant reviews each consultation request and highlights the most relevant experts for your question.
+- **Session booking** — send a request, get confirmed, and meet the expert all in one place.
+- **Reviews** — after every session, guests can leave a star rating and written feedback so the community stays accountable.
 - **Contribution tracking** — experts earn community hours for every session they complete, making their impact visible and recognised.
-- **Secure sign-in** — accounts are protected with email verification and one-time passcodes.
+- **Secure sign-in** — accounts are protected with email verification and one-time passcodes sent to users emails.
 
 ## Who It's For
 
-**Guests (people seeking advice):** Anyone who needs a quick, reliable answer from a qualified professional. Whether you have a legal question, a tech problem, or need career guidance, ExpertConnect makes it easy to find the right person without the usual barriers of cost or availability.
+**People seeking advice:** Anyone who needs a quick, reliable answer from a qualified professional. Whether you have a legal question, a tech problem, or need career guidance, ExpertConnect makes it easy to find the right person without the usual barriers of cost or availability.
 
-**Experts (professionals giving back):** Practitioners who want to contribute their knowledge to the community. Experts set up a public profile, accept session requests at their own pace, and track the hours they've invested in helping others.
+**Professionals:** Experts who want to contribute their knowledge to the community. They set up a public profile, accept session requests, and track the hours they've invested in the sessions.
 
 ## How It Works
 
@@ -31,4 +31,4 @@ ExpertConnect is an online platform that connects people who need expert advice 
 
 ## Built By
 
-Developed by [Your Name / Team Name] — [your contact or portfolio link].
+Layan Alamry on Replit.
