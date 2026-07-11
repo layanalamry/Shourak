@@ -6,7 +6,9 @@
 
 ## View the Project
 
-🔗 **https://shourak.replit.app**
+**https://shourak.com**
+OR
+**https://shourak.replit.app**
 
 ## Key Features
 
